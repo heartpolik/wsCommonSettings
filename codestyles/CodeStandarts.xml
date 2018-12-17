@@ -1,10 +1,19 @@
 <code_scheme name="CodeStandarts" version="173">
-  <JSCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
+  </HTMLCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="ALIGN_IMPORTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="PROPERTY_ALIGNMENT" value="2" />
